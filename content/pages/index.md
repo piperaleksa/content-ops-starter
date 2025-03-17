@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Vukasin
+      label: Vukasin Milojevic
       color: text-primary
       type: Badge
     elementId: ''
